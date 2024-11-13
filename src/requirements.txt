@@ -1,0 +1,8 @@
+pypdf
+langchain_community
+langchain_huggingface
+langchain_groq
+sentence-transformers
+langchain-core
+langchain-text-splitters
+requests
