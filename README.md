@@ -73,6 +73,6 @@ This project extracts content from a PDF file and combines it with web search re
 
 ## Example Interaction
  
-   ``bash
+   ```bash
    Enter your question (type 'exit' to stop): What is the report about?
    Response: The report is about the Human Development Report 2020, which documents...
